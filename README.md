@@ -10,3 +10,5 @@ The window manager is remodded from Prelude XFWM4 mod by Sira
 Great thanks to :
 - Faat Fuut
 - Sira Argia
+
+Place the extracted zip to your ~/.themes folder.
